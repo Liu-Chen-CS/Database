@@ -24,7 +24,20 @@
         | -------- | ------- |
         | InnoDB|B+ Tree |
       - **B+ Tree**
-        - Leaf nodes contain actual data records, leaf nodes are linked together to form a `linked list`. 
+        - Leaf nodes contain actual data records, leaf nodes are linked together to form a `linked list`.
+       
+    - **Index management**
+      - **How to create index** 
+        -  <img width="226" alt="Screen Shot 2024-03-09 at 17 48 22" src="https://github.com/Liu-Chen-CS/Database/assets/158779475/014e1f4b-9203-44b7-abc0-e5afdc16519d"><img width="317" alt="Screen Shot 2024-03-09 at 17 48 40" src="https://github.com/Liu-Chen-CS/Database/assets/158779475/b27db6d4-27c7-4a05-8d86-554a09e248c4"><img width="302" alt="Screen Shot 2024-03-09 at 17 49 04" src="https://github.com/Liu-Chen-CS/Database/assets/158779475/66f147be-e25a-49eb-9a89-1542abe4b130">
+      - **How to check index**
+        - <img width="237" alt="Screen Shot 2024-03-09 at 17 53 56" src="https://github.com/Liu-Chen-CS/Database/assets/158779475/b6cd56fd-6d9c-4139-bc16-29bd823c7d55">
+      - **How to delete index**
+        - <img width="312" alt="Screen Shot 2024-03-09 at 17 54 43" src="https://github.com/Liu-Chen-CS/Database/assets/158779475/aeebf088-683d-4093-b4df-fad99201cac4">
+
+
+
+
+
 
 
 
